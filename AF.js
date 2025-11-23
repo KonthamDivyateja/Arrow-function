@@ -1,0 +1,1 @@
+const greetWithDefault = (name = "Guest") => console.log(`Hello, ${name}`);
